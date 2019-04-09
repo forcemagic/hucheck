@@ -1,0 +1,32 @@
+{
+  "name": "hucheck",
+  "version": "0.0.1",
+  "description": "Checks an essay (or any text for that matter) written in Hungarian for common mistakes",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "nyc mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forcemagic/hucheck.git"
+  },
+  "keywords": [],
+  "author": "Matthew Coal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/forcemagic/hucheck/issues"
+  },
+  "homepage": "https://github.com/forcemagic/hucheck#readme",
+  "devDependencies": {
+    "eslint": "^5.3.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.11.0",
+    "mocha": "^6.1.2",
+    "nyc": "^13.3.0"
+  }
+}
