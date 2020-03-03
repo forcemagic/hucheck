@@ -21,12 +21,12 @@
   },
   "homepage": "https://github.com/forcemagic/hucheck#readme",
   "devDependencies": {
-    "eslint": "^5.3.0",
-    "eslint-config-airbnb": "^17.1.0",
-    "eslint-plugin-import": "^2.14.0",
-    "eslint-plugin-jsx-a11y": "^6.1.1",
-    "eslint-plugin-react": "^7.11.0",
-    "mocha": "^6.1.2",
-    "nyc": "^13.3.0"
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.18.3",
+    "mocha": "^7.1.0",
+    "nyc": "^15.0.0"
   }
 }
